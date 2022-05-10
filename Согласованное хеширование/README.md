@@ -173,6 +173,7 @@ public class ConsistentHash<T> {
 представляет собой хранилище ключей и значений (недоступно за пределами 
 Amazon).
 
+Источник: https://tom-e-white.com/2007/11/consistent-hashing.html
 Автор:
 Tom White
 tom.e.white@gmail.com
