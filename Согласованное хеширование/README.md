@@ -46,7 +46,7 @@ Java-программисту: метод `hashCode` для `Object ` возвр
 Consistent Hashing` Дэвида Каргер и др.):
 
 
-![title](/2007-11-27-image-0000.png)
+![title](https://github.com/codefather-labs/translations_of_computer_science_articles/blob/main/Согласованное%20хеширование/2007-11-27-image-0000.png?raw=true)
 
 Чтобы узнать, в какой кэш помещается объект, мы двигаемся по часовой 
 стрелке по кругу, пока не найдем точку кэша. Итак, на диаграмме выше мы 
