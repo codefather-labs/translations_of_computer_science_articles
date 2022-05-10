@@ -57,7 +57,8 @@ Consistent Hashing` Дэвида Каргер и др.):
 отмеченную позицию, он займет объекты 3 и 4, оставив только объект 1, 
 принадлежащий A.
 
-/2007-11-27-image-0001.png
+
+![title](https://github.com/codefather-labs/translations_of_computer_science_articles/blob/main/Согласованное%20хеширование/2007-11-27-image-0001.png?raw=true)
 
 Это работает хорошо, за исключением того, что размер интервалов, 
 назначенных каждому кешу, довольно удачен. Поскольку это по существу 
@@ -77,7 +78,7 @@ Consistent Hashing` Дэвида Каргер и др.):
 баланс (стандартное отклонение, которое составляет примерно от 5% до 10% 
 от среднего значения).
 
-/2007-11-27-image-0002.png
+![title](https://github.com/codefather-labs/translations_of_computer_science_articles/blob/main/Согласованное%20хеширование/2007-11-27-image-0002.png?raw=true)
 
  # Реализация
  
